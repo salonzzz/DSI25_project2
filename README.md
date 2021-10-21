@@ -1,5 +1,4 @@
 # DSI25 Project 2
-## Saloni
 
 # Executive Summary
 
